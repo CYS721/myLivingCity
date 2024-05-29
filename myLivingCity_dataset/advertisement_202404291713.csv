@@ -1,0 +1,3 @@
+id,owner_id,creat_at,update_at,advertisement_title,advertisement_type,advertisement_duration,advertisement_position,advertisement_image_path,advertisement_external_link,published
+7,cll12i0mm0014lg06nd1pxls6,2023-08-07 16:10:53.157,2023-08-07 16:10:53.157,MyLivingCity Adds,BASIC,,victoria,1691424652575-MyLivingCity_Logo_NameOnly.jpg,http://www.mylivingcity.org,True
+8,cll12pyle001klg06em4rz6x3,2023-08-07 16:17:41.903,2023-08-07 16:17:41.903,Network Potential,BASIC,,victoria,1691425061601-NP-Horizontal-Black.png,http://www.networkpotential.ca,True

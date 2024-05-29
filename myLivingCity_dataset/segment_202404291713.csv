@@ -1,0 +1,5 @@
+seg_id,country,province,segment_name,super_segment_name,created_at,update_at,superSegId
+3,canada,british columbia,esquimalt,CRD,2023-04-04 23:54:07.035,2024-04-02 23:44:40.592,1
+4,canada,british columbia,langford,CRD,2023-04-06 02:36:23.509,2024-04-02 23:44:40.592,1
+1,canada,british columbia,victoria,CRD,2023-04-04 23:54:06.967,2024-04-02 23:44:40.592,1
+2,canada,british columbia,Saanich,crd,2023-04-04 23:54:06.980,2024-04-05 02:18:09.435,1

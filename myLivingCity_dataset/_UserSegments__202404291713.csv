@@ -1,0 +1,58 @@
+id,user_id,home_segment_id,work_segment_id,school_segment_id,home_sub_segment,work_sub_segment,school_sub_segment,home_segment_name,work_segment_name,school_segment_name,home_sub_segment_name,work_sub_segment_name,school_sub_segment_name,home_super_segment_id,home_super_segment_name,work_super_segment_id,work_super_segment_name,school_super_segment_id,school_super_segment_name,home_seg_handle,school_seg_handle,work_seg_handle
+cluq33b1r0004lb06ynqj2g8u,cluq33b1r0000lb06eesgxsy8,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,present@,,
+cluq878fk000ylb069cdhlwhv,cluq878fk000ulb06bghlcnq3,1.0,1.0,4.0,,,,victoria,victoria,langford,,,,1.0,CRD,1.0,CRD,1.0,CRD,Britney@,Britney@School,Britney@Work
+cluq8m25c001slb06ndtbgvw3,cluq8m25b001olb06j28sp65p,4.0,1.0,1.0,,,,langford,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Edward@,Edward@School,Edward@Work
+clrnycefh004flg06uyxrvwt2,clrnycdvp0048lg06sqtmvck6,1.0,,,1.0,,,victoria,,,fairfield,,,1.0,CRD,,,,,Darren@,,
+cluqihrfy0054lb063y6gjcmi,cluqihrfy0050lb06sqr2rymq,3.0,,,,,,esquimalt,,,,,,1.0,CRD,,,,,Test@,,
+cllr9xbpg0035lg06j5kko8zg,cllr9xb2m002ylg06w2em2f1r,,,,,,,,,,,,,,,,,,,,,
+cll13ze480027lg06ez8oilce,cll13zcwk0020lg06c4p76dni,2.0,,,5.0,,,Saanich,,,UVIC,,,1.0,crd,,,,,Community@,,
+clu4m22f7002sqs06vgtm9nga,clu4m22f6002oqs06crueejdo,,,,,,,,,,,,,,,,,,,Viola@,,
+clu4n5n0u0032qs06fqwp0hvw,clu4n5n0t002yqs062yj7lvxp,,,,,,,,,,,,,,,,,,,@Ring Road,,
+cll2j6jl20007usnkprjfmaaw,cll2j6gvw0000usnkmwe0bezb,1.0,1.0,1.0,6.0,1.0,6.0,victoria,victoria,victoria,DowntownVic,fairfield,DowntownVic,1.0,CRD,1.0,CRD,1.0,victoria,Austin@,Austin@,Austin@
+clur056nk000qpb06zaulnv36,clur056nj000mpb06jm4e6vjo,3.0,1.0,1.0,,,,esquimalt,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,victoria,Lucas@,Lucas@,Lucas@
+clur5zxkc001kpb06ykxf8kdk,clur5zxkc001gpb06otwxp8dq,1.0,1.0,1.0,1.0,1.0,1.0,victoria,victoria,victoria,fairfield,fairfield,fairfield,1.0,CRD,1.0,CRD,1.0,CRD,GFDS@DFDAD,GFDS@School,GFDS@Work
+clu0n6ka2000oqs066s65buc0,clu0n6ka2000kqs06tdyeqtmb,,,,,,,,,,,,,,,,,,,Tullius@,,
+cluyxuu8a002epb0669ssk77s,cluyxuu89002apb06xnbi8e5e,1.0,,2.0,6.0,,5.0,victoria,,Saanich,DowntownVic,,UVIC,1.0,CRD,1.0,CRD,1.0,Saanich,Ted@,Ted@Business,
+cll12i1r7001blg06sektn68y,cll12i0mm0014lg06nd1pxls6,1.0,,,6.0,,,victoria,,,DowntownVic,,,1.0,CRD,,,,,@Johnson Street,,
+clkx17i0c000flg06ii236nvr,clkx17hk90008lg06bbqw7qok,1.0,1.0,1.0,,,,victoria,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Nic@Douglas,Nic@,Nic@
+cluq3sr7l000elb06yq68hyy6,cluq3sr7l000alb06xyucnngb,3.0,,,,,,esquimalt,,,,,,1.0,CRD,,,,,test@,,
+cluq88g2a0018lb06tksrgzcb,cluq88g2a0014lb06o1ezorwp,1.0,4.0,4.0,,,,victoria,langford,langford,,,,1.0,CRD,1.0,CRD,1.0,CRD,Cameron@,Cameron@School,Cameron@Work
+cluq8mrq00022lb061f0zw6jl,cluq8mrq0001ylb062lgiudwp,1.0,1.0,1.0,,,,victoria,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Fred@,Fred@School,Fred@Work
+cll12pzo5001rlg06z9oy88cu,cll12pyle001klg06em4rz6x3,2.0,,,4.0,,,Saanich,,,Uptown,,,1.0,crd,,,,,Nic@,,
+cluqfpv0k002wlb06r2nycrne,cluqfpv0k002slb06lo89rhdx,4.0,,,,,,langford,,,,,,1.0,CRD,,,,,test@,,
+clur3kdd40010pb06ttmf3234,clur3kdd4000wpb06k1ng5kqa,1.0,1.0,3.0,,,,victoria,victoria,esquimalt,,,,1.0,CRD,1.0,CRD,1.0,CRD,Lucas@,Lucas@School,Lucas@Work
+clriojixk003zlg06a0v57c8k,clriojify003slg06d0jf1jnm,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,Hairun@1234 main st,,
+cllr9t2zd002plg069jet7nf3,cllr9t2dq002ilg069e31fb5b,2.0,,,,,,saanich,,,,,,1.0,CRD,,,,,Guy@,,
+clrfuydeu003llg063h5g2sjl,clrfuycv0003elg06efrb27b5,3.0,,,,,,esquimalt,,,,,,1.0,CRD,,,,,Admin01@,,
+clu4letga002iqs0689mf046a,clu4letg9002eqs061d1pfoz1,2.0,,,,,,saanich,,,,,,1.0,CRD,,,,,Francois@,,
+clrplp8l5004vlg06nne0esgx,clrplp7zl004olg06f1q5nsjb,1.0,,,,,,victoria,victoria,victoria,,,,1.0,CRD,,,,,BCIT@Unknown,BCIT@Unknown,BCIT@Unknown
+cltma0fom0004kw06s15g9mj5,cltma0fom0000kw06bgg5k4pn,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,Darren@,,
+clu0mhxfn000eqs064jnsfif3,clu0mhxfn000aqs06873lpja7,3.0,,,,,,esquimalt,,,,,,1.0,CRD,,,,,Marcus@,,
+clu0tklok0018qs069eof41ko,clu0tklok0014qs0698vsgdry,3.0,,,9.0,,,esquimalt,,,WestBay,,,1.0,CRD,,,,,@Lyall,,
+cluisf9fi004gqs06jpmq9jhg,cluisf9fi004cqs062oko5671,1.0,,,,,,Victoria,,,,,,1.0,CRD,,,,,Test@,,
+cluit279d004qqs06vzub66om,cluit279d004mqs067tv7wh5u,2.0,,,,,,Saanich,,,,,,1.0,CRD,,,,,Test@,,
+clu4l9ijv0028qs06fyr5u061,clu4l9ijv0024qs0697jbsq5f,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,Mohandas@,,
+cluit4n5n0050qs06fa9a9jtp,cluit4n5n004wqs06ulynydis,3.0,,,,,,Esquimalt,,,,,,1.0,CRD,,,,,Test@,,
+clur63c8c001upb06bhw21mga,clur63c8c001qpb06be96bo4h,3.0,1.0,1.0,,,,esquimalt,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,victoria,Lucas@,Lucas@,Lucas@
+clkzvrk3h000vlg06kpi2ifwz,clkzvrj2s000olg06ehcaf0b0,3.0,2.0,2.0,9.0,7.0,5.0,esquimalt,langford,saanich,WestBay,GoldstreamStation,UVIC,1.0,CRD,1.0,CRD,1.0,CRD,Rob@Esquimalt Road,,RobBeta99@Walmart
+clkzvix4x000nlg06nvf6anu3,clkzviwgv000glg062rwslf8w,3.0,4.0,4.0,10.0,7.0,7.0,esquimalt,langford,langford,Esquimalt Town Centre,GoldstreamStation,GoldstreamStation,1.0,CRD,1.0,CRD,1.0,CRD,Nic@Drake Ave,Nic@,Nic@BMT
+cll12co2h0013lg06y3u1n23z,cll12cnah000wlg06qcz64hu1,1.0,1.0,1.0,1.0,6.0,5.0,victoria,victoria,saanich,fairfield,DowntownVic,UVIC,1.0,CRD,1.0,CRD,1.0,CRD,Tim@Testing Road,Tim@Business,Tim@Fan Tan Ice Cream
+cll19eh5p00079jo4g2laxglj,cll19ee6a00009jo47kq8ou80,4.0,4.0,1.0,7.0,7.0,5.0,langford,langford,saanich,GoldstreamStation,GoldstreamStation,UVIC,1.0,CRD,1.0,CRD,1.0,CRD,Test@Test Drive,Test@,Test@
+cluit8w0c005aqs06mzcpbiw2,cluit8w0c0056qs06l9o1gwjb,1.0,,,,,,Victoria,,,,,,1.0,CRD,,,,,Test@,,
+cluitb2ob005kqs066weug3uu,cluitb2ob005gqs0612e6ebfq,4.0,,,,,,Langford,,,,,,1.0,CRD,,,,,Test@,,
+cls55cp34005jlg06skka4nf4,cls55cok0005clg06ntq88rhe,1.0,2.0,1.0,6.0,2.0,6.0,victoria,saanich,victoria,DowntownVic,rutledge park,DowntownVic,1.0,CRD,1.0,CRD,1.0,victoria,darren@,darren@,darren@
+cluinp0vf003cqs06zziav32v,cluinp0vf0038qs06nczvky4t,1.0,,,6.0,,,victoria,,,DowntownVic,,,1.0,CRD,1.0,CRD,1.0,,Regular@,,
+clur6bu9y0024pb06o1s5o1vn,clur6bu9x0020pb06agvd5jfx,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,TEST@,,
+cluq6tj6j000olb060c2nm3hn,cluq6tj6j000klb06wl3tvogo,1.0,,,,,,victoria,,,,,,1.0,CRD,,,,,super@,,
+cluq894o3001ilb06utaedfiz,cluq894o3001elb06isj11l1s,4.0,1.0,4.0,,,,langford,victoria,langford,,,,1.0,CRD,1.0,CRD,1.0,CRD,Diego@,Diego@School,Diego@Work
+cluqf664x002clb060an00kmq,cluqf664x0028lb06ebmlo6wc,1.0,1.0,1.0,1.0,1.0,1.0,victoria,victoria,victoria,fairfield,fairfield,fairfield,1.0,CRD,1.0,CRD,1.0,CRD,grfd@dsfdsv,grfd@School,grfd@Work
+cluiowe6g003mqs06q8pzlxn7,cluiowe6g003iqs06wobphzpx,1.0,1.0,1.0,,,,Victoria,Victoria,Victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Test@,Test@School,Test@Work
+cluip32e1003wqs06vol6bl9n,cluip32e1003sqs06f31pj113,4.0,1.0,1.0,,,,Langford,Victoria,Victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Test@,Test@School,Test@Work
+clu0lg3qe0004qs062ekel9fn,clu0lg3qd0000qs06ide6d3ze,3.0,2.0,2.0,10.0,4.0,4.0,Esquimalt,saanich,saanich,Esquimalt Town Centre,Uptown,Uptown,1.0,CRD,1.0,CRD,1.0,CRD,Duke@Arakeen Ave,Duke@School,Duke@Work
+cluipi0sr0046qs06cs5zympb,cluipi0sr0042qs062i72ur79,2.0,1.0,1.0,,,,Saanich,Victoria,Victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Test@,Test@School,Test@Work
+clu0t10d0000yqs06won2u4bd,clu0t10cz000uqs06a52rwzny,1.0,2.0,2.0,1.0,4.0,,Victoria,saanich,saanich,fairfield,Uptown,,1.0,CRD,1.0,CRD,1.0,CRD,Eliza@Wild Rose St,Eliza@School,Eliza@Brown's Social Club
+clu26y6j5001oqs069g7oasm3,clu26y6j4001kqs06wk0kflpn,1.0,1.0,2.0,1.0,1.0,5.0,victoria,victoria,saanich,fairfield,fairfield,UVIC,1.0,CRD,1.0,CRD,1.0,CRD,Atticus@Mockingbird Lane,Atticus@School,Atticus@Work
+clu4l2f8o001yqs06l3o4s0m7,clu4l2f8o001uqs06hud46wm6,2.0,1.0,1.0,,,,saanich,victoria,victoria,,,,1.0,CRD,1.0,CRD,1.0,CRD,Francois@,Francois@School,Francois@Work
+cluqi7l5a004ulb06khaw3ohy,cluqi7l5a004qlb06qgmcvnkx,1.0,1.0,1.0,1.0,1.0,1.0,victoria,victoria,victoria,fairfield,fairfield,fairfield,1.0,CRD,1.0,CRD,1.0,CRD,SFDGSDGSD@DSFDS,SFDGSDGSD@School,SFDGSDGSD@Work
+cll1f5uwh002hlg06jwmr9u5t,cll1f5uda002alg06tucrs8w9,4.0,4.0,2.0,7.0,7.0,8.0,langford,langford,Saanich,GoldstreamStation,GoldstreamStation,CamosunInterurban,1.0,CRD,1.0,CRD,1.0,Saanich,Elias@,Elias@Information and Computer Systems,Elias@
+clur3mz3r001apb065grtat3h,clur3mz3q0016pb06djyqcra3,4.0,2.0,1.0,,,,langford,Saanich,victoria,,,,1.0,CRD,1.0,crd,1.0,victoria,Lucas@,Lucas@,Lucas@

@@ -1,0 +1,20 @@
+id,idea_id,author_id,content,active,created_at,updated_at,user_segment_id,segment_id,super_segment_id,sub_segment_id,banned_comment,comment_flag_num,reviewed,quarantined_at,notification_dismissed
+31,89,clkzvrj2s000olg06ehcaf0b0,How about we create a task force team to tackle all the hard solutions and help to share the implementation across all of Uptown,True,2023-08-07 17:52:20.199,2023-08-07 17:52:20.199,clkzvrk3h000vlg06kpi2ifwz,,,4.0,False,0,False,2023-08-07 17:52:20.199,False
+32,111,cll12cnah000wlg06qcz64hu1,,True,2023-08-09 16:34:51.202,2023-08-09 16:34:51.202,cll12co2h0013lg06y3u1n23z,1.0,,,False,0,False,2023-08-09 16:34:51.202,False
+33,120,cll12cnah000wlg06qcz64hu1,"test comments test idea submission, Saanich as Student",True,2023-08-09 22:50:58.139,2023-08-09 22:50:58.139,cll12co2h0013lg06y3u1n23z,1.0,,,False,0,False,2023-08-09 22:50:58.139,False
+34,93,clkzvrj2s000olg06ehcaf0b0,"Supper great idea, It would be so convenient to have this!",True,2023-08-26 00:36:11.065,2023-08-26 00:36:11.065,clkzvrk3h000vlg06kpi2ifwz,2.0,,,False,0,False,2023-08-26 00:36:11.065,False
+35,93,cll13zcwk0020lg06c4p76dni,I would be great if they offered bike repair courses.,True,2023-08-26 00:38:07.876,2023-08-26 00:38:07.876,cll13ze480027lg06ez8oilce,2.0,,,False,0,False,2023-08-26 00:38:07.876,False
+36,93,cll12pyle001klg06em4rz6x3,Having a workshop space for the community for self maintenance would be great.,True,2023-08-26 00:52:21.662,2023-08-26 00:52:21.662,cll12pzo5001rlg06z9oy88cu,2.0,,,False,0,False,2023-08-26 00:52:21.662,False
+37,93,cllr9t2dq002ilg069e31fb5b,This is a great project to liaise with the Saanich Communities services team.,True,2023-08-26 01:03:22.489,2023-08-26 01:03:22.489,cllr9t2zd002plg069jet7nf3,2.0,,,False,0,False,2023-08-26 01:03:22.489,False
+38,123,clkzvrj2s000olg06ehcaf0b0,test comment,True,2023-08-27 02:02:05.571,2023-08-27 02:02:05.571,clkzvrk3h000vlg06kpi2ifwz,,,5.0,False,0,False,2023-08-27 02:02:05.571,False
+39,123,clkzvrj2s000olg06ehcaf0b0,testing,True,2023-08-27 02:04:45.386,2023-08-27 02:04:45.386,clkzvrk3h000vlg06kpi2ifwz,,,5.0,False,0,False,2023-08-27 02:04:45.386,False
+40,124,clkzvrj2s000olg06ehcaf0b0,test comment,True,2023-08-27 02:05:41.583,2023-08-27 02:05:41.583,clkzvrk3h000vlg06kpi2ifwz,2.0,,,False,0,False,2023-08-27 02:05:41.583,False
+41,125,cll12i0mm0014lg06nd1pxls6,test comment,True,2023-08-27 02:09:51.487,2023-08-27 02:09:51.487,cll12i1r7001blg06sektn68y,,,6.0,False,0,False,2023-08-27 02:09:51.487,False
+42,127,clriojify003slg06d0jf1jnm,great idea!,True,2024-01-21 20:31:45.990,2024-01-21 20:31:45.990,clriojixk003zlg06a0v57c8k,,1.0,,False,0,False,2024-01-21 20:31:45.990,False
+43,121,clkzviwgv000glg062rwslf8w,It would great to use bamboo all natural umbrellas,True,2024-02-09 20:33:18.411,2024-02-09 20:33:18.411,clkzvix4x000nlg06nvf6anu3,,1.0,,False,0,False,2024-02-09 20:33:18.411,False
+44,132,cluinp0vf0038qs06nczvky4t,It is a great idea!,True,2024-04-07 18:48:53.397,2024-04-07 18:48:53.397,cluinp0vf003cqs06zziav32v,,1.0,,False,0,False,2024-04-07 18:48:53.397,False
+45,133,cluinp0vf0038qs06nczvky4t,How about we create a task force team to tackle all the hard solutions and help to share the implementation across all of Uptown,True,2024-04-07 21:36:09.304,2024-04-07 21:36:09.304,cluinp0vf003cqs06zziav32v,,1.0,,False,0,False,2024-04-07 21:36:09.304,False
+46,132,cluipi0sr0042qs062i72ur79,I like your idea!,True,2024-04-07 21:36:48.291,2024-04-07 21:36:48.291,cluipi0sr0046qs06cs5zympb,,1.0,,False,0,False,2024-04-07 21:36:48.291,False
+47,133,cluip32e1003sqs06f31pj113,This is a great idea!,True,2024-04-07 21:40:35.121,2024-04-07 21:40:35.121,cluip32e1003wqs06vol6bl9n,,1.0,,False,0,False,2024-04-07 21:40:35.121,False
+48,135,cluiowe6g003iqs06wobphzpx,"It would be great if they offered bike repair courses.
+",True,2024-04-07 21:43:49.420,2024-04-07 21:43:49.420,cluiowe6g003mqs06q8pzlxn7,,1.0,,False,0,False,2024-04-07 21:43:49.420,False
